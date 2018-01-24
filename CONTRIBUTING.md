@@ -2,13 +2,13 @@
 Somos una comunidad de individuos y organizaciones que voluntariamente unimos esfuerzos para colaborar y compartir conocimiento, crear software libre para resolver problemas que enfrentamos en nuestra realidad en Costa Rica.
 
 
-En este repositorio estamos creando un **API abierto** y componentes de software para simplificar el proceso de la **Factura Electrónica** requerido por el Ministerio de Hacienda de Costa Rica.
+En este repositorio estamos creando un **[API abierto](https://github.com/CRLibre/API_Hacienda)**, [documentación](https://github.com/CRLibre/fe-hacienda-cr-docs) y componentes de software para simplificar el proceso de la **Factura Electrónica** requerido por el Ministerio de Hacienda de Costa Rica.
 
 En repositorios adicionales estaremos colaborando con elementos similares
 
-## Cómo colaborar con el API Open Source de CRLibre
-* Abriendo un *issue* en https://github.com/CRLibre/API_Hacienda/issues
-* Colaborando con un [*pull resquest*](https://github.com/CRLibre/API_Hacienda/pulls)
+## Cómo colaborar con este repositorio de la comunidad de CRLibre
+* Abriendo un *issue* en https://github.com/CRLibre/fe-hacienda-cr-misc/issues
+* Colaborando con un [*pull resquest*](https://github.com/CRLibre/fe-hacienda-cr-misc/pulls)
 * Documentando
   * Documentación del API en el wiki: https://github.com/CRLibre/API_Hacienda/wiki
   * Documentación técnica general de la Factura Electrónica en Costa Rica
