@@ -9,6 +9,7 @@ En este repositorio estamos compartiendo recursos comunes útiles para proyectos
 
 ### Conversemos
 * Póngase en contacto con los otros miembros voluntarios de la comunidad.
+   * [Sistema de Preguntas y Respuestas de la Comunidad](https://crlibre.org/qa/)
    * [Grupo de Whatsapp de CRLibre.org](https://chat.whatsapp.com/ED2JK9IkDnu2UzEpyjZDeN)
    * [Grupo de Facebook CRLibre](https://www.facebook.com/groups/105812240170199/)
 
